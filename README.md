@@ -1,6 +1,10 @@
 # KNN em MIPS
 Este repositório contém a implementação do algoritmo KNN na linguagem Assembly MIPS. Ele primeiramente armazena uma lista de pontos já classificados (sendo a classificação de cada ponto 0 ou 1), depois ele lê um arquivo com pontos a serem classificados, retornando a criação de um arquivo com a classificação de todos os respectivos pontos, calculada com base da classificação do vizinho mais próximo.
 
+## Autores
+- Eloisa Antero Guisse
+- Rafael Varago de Castro
+
 ## Arquivos do repositório
 - **main.asm:** Código do programa MIPS;
 - **x_train.txt:** Coordenada de pontos já conhecidos;
